@@ -1,2 +1,2 @@
 # js
-book with js
+all with js
